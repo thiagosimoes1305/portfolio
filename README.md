@@ -80,12 +80,18 @@ Palestras
 
 #### <i class="icon-pencil"></i> Palestras do cenário nacional DEV (WordPress, Back-end, dentre outras).
 
->  ` PHPeste em Salvador [2016]:  Foi abordado as novas features do ECMAScript, listando o que é possível hoje desenvolver nos navegadores tradicionais do mercado, fazer comparativos do React, Angular, backbone.js e Vue.js, informando os paradigmas dessas modas que os Front-Ends estão utilizando.`
-
->  ` WordCamp Fortaleza [2016]:  Abordagem: Mostrei como iniciei no WordPress, desafios que tive e tudo que há de novo no WordPress. Mas não para por ai. Sai de desenvolvedor para gestor de equipe e hoje tenho uma grande equipe pelo Brasil a fora desenvolvendo os sites em WordPress. O Evento aconteceu em Fortaleza - Ceará.`
-
-> `WordCamp Belo Horizonte [2015]: O tema será similar ao do WordCamp Salvador 2014, só que é claro com algumas boas modificações, que como todo bom projeto, sempre tem atualizações consideráveis. O evento foi dia 13 de Junho no Teatro Ney Soares - Belo Horizonte - Minas Gerais`
-
->  `I/O Extended Salvador [2015]: Palestra sobre Desenvolvimento Android e suas funcionalidades de interação com o usuário. Com um pouco de código para mostrar as maravilhas de se programar para a plataforma Android do Google. O Evento aconteceu na Livraria Saraiva do Salvador Shopping em Salvador - Bahia`
-
->  `WordCamp Salvador [2014]: O WordPress está sendo muito utilizado como ferramenta de gerenciamento de muitos sites e até portais, com isso não só os desenvolvedores, blogueiros ou jornalistas que estão utilizando essa ferramenta mais também os usuários finais (os clientes). Evento em Salvador - Bahia`
+>  
+[![001](https://img.shields.io/badge/2016-PHPeste%20em%20Salvador-brightgreen.svg)](http://tedk.com.br)
+>  `Foi abordado as novas features do ECMAScript, listando o que é possível hoje desenvolver nos navegadores tradicionais do mercado, fazer comparativos do React, Angular, backbone.js e Vue.js, informando os paradigmas dessas modas que os Front-Ends estão utilizando.`
+>  
+[![002](https://img.shields.io/badge/2016-WordCamp%20Fortaleza-brightgreen.svg)](http://tedk.com.br)
+>  `Mostrei como iniciei no WordPress, desafios que tive e tudo que há de novo no WordPress. Mas não para por ai. Sai de desenvolvedor para gestor de equipe e hoje tenho uma grande equipe pelo Brasil a fora desenvolvendo os sites em WordPress. O Evento aconteceu em Fortaleza - Ceará.`
+>  
+[![003](https://img.shields.io/badge/2015-WordCamp%20Belo%20Horizonte-brightgreen.svg)](http://tedk.com.br)
+> `O tema será similar ao do WordCamp Salvador 2014, só que é claro com algumas boas modificações, que como todo bom projeto, sempre tem atualizações consideráveis. O evento foi dia 13 de Junho no Teatro Ney Soares - Belo Horizonte - Minas Gerais`
+>  
+[![003](https://img.shields.io/badge/2015-I/O%20Extended%20Salvador-brightgreen.svg)](http://tedk.com.br)
+>  `Palestra sobre Desenvolvimento Android e suas funcionalidades de interação com o usuário. Com um pouco de código para mostrar as maravilhas de se programar para a plataforma Android do Google. O Evento aconteceu na Livraria Saraiva do Salvador Shopping em Salvador - Bahia`
+>  
+[![004](https://img.shields.io/badge/2014-WordCamp%20Salvador-brightgreen.svg)](http://tedk.com.br)
+>  `O WordPress está sendo muito utilizado como ferramenta de gerenciamento de muitos sites e até portais, com isso não só os desenvolvedores, blogueiros ou jornalistas que estão utilizando essa ferramenta mais também os usuários finais (os clientes). Evento em Salvador - Bahia`
