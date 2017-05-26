@@ -55,7 +55,7 @@ Projetos
 
 #### <i class="icon-folder-open"></i> Veja alguns dos meus principais trabalhos.
 
-SENAI Cimatec | Agenda Cultural Bahia    |
+SENAI Cimatec | Agenda Cultural Bahia    | Jogo da Memôria
 ------------- | -------- |
-<img style="display: block; margin: 0 auto;" src="http://tedk.com.br/wp-content/uploads/2016/11/senai-cimatec-2016-384x269.jpg" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/aaaa-384x269.jpg" style="display: block; margin: 0 auto;" />     |
-SENAI CIMATEC, **inaugurado em março de 2002**, é um dos mais avançados centros de educação, tecnologia e inovação do país, localizado em Salvador, Bahia. Desenvolvido usando WordPress e JavaScript. **Designer: Alex Leão**. **Gerente de Projetos: Elano Passos**.  | A **Agenda Cultural da Bahia** agora está disponível para o seu celular (Android e iOS). Ficou fácil acompanhar os eventos culturais que acontecem por todo o estado da Bahia. **Desenvolvido usando Cordova e JavaScript** e usando notificações. **Designer Lívia Argolo**. |
+<img style="display: block; margin: 0 auto;" src="http://tedk.com.br/wp-content/uploads/2016/11/senai-cimatec-2016-384x269.jpg" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/aaaa-384x269.jpg" style="display: block; margin: 0 auto;" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/outubro-rosa-2014-01-384x269.jpg" />
+SENAI CIMATEC, **inaugurado em março de 2002**, é um dos mais avançados centros de educação, tecnologia e inovação do país, localizado em Salvador, Bahia. Desenvolvido usando WordPress e JavaScript. **Designer: Alex Leão**. **Gerente de Projetos: Elano Passos**.  | A **Agenda Cultural da Bahia** agora está disponível para o seu celular (Android e iOS). Ficou fácil acompanhar os eventos culturais que acontecem por todo o estado da Bahia. **Desenvolvido usando Cordova e JavaScript** e usando notificações. **Designer Lívia Argolo**. | Jogo desenvolvido para campanha contra o Câncer de Mama no mês de Outubro pela TAO Interativa. Feito em HTML5 (Canvas) usando JavaScript e a suite CreateJS; usando contagem de tempo e elementos de cartas para a dinâmica do game.
