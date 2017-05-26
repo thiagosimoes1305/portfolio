@@ -1,7 +1,8 @@
 Ted k'.
-===================
+==================
+[![Facebook](https://img.shields.io/badge/social-facebook-blue.svg)](https://www.facebook.com/tedk.adamisongs) [![E-mail](https://img.shields.io/badge/e--mail-contato%40tedk.com.br-green.svg)](http://tedk.com.br/)  [![Linkedin](https://img.shields.io/badge/professional-linkedin-blue.svg)](https://www.linkedin.com/in/portfoliotedk/)
 
-Programador com conhecimento em várias linguagens. Sócio-Fundador e Desenvolvedor na AgênciaOFF, Palestrante sobre **WordPress** e **Front-End** e tenho mais de **18 anos de experiência** na área.
+Programador Full-Stack com conhecimento em várias linguagens. Sócio-Fundador e Desenvolvedor na AgênciaOFF, Palestrante sobre **WordPress** e **Front-End** e tenho mais de **18 anos de experiência** na área.
 
 ----------
 
@@ -83,7 +84,7 @@ Palestras
 
 >  ` WordCamp Fortaleza [2016]:  Abordagem: Mostrei como iniciei no WordPress, desafios que tive e tudo que há de novo no WordPress. Mas não para por ai. Sai de desenvolvedor para gestor de equipe e hoje tenho uma grande equipe pelo Brasil a fora desenvolvendo os sites em WordPress. O Evento aconteceu em Fortaleza - Ceará.`
 
-> -`WordCamp Belo Horizonte [2015]: O tema será similar ao do WordCamp Salvador 2014, só que é claro com algumas boas modificações, que como todo bom projeto, sempre tem atualizações consideráveis. O evento foi dia 13 de Junho no Teatro Ney Soares - Belo Horizonte - Minas Gerais`
+> `WordCamp Belo Horizonte [2015]: O tema será similar ao do WordCamp Salvador 2014, só que é claro com algumas boas modificações, que como todo bom projeto, sempre tem atualizações consideráveis. O evento foi dia 13 de Junho no Teatro Ney Soares - Belo Horizonte - Minas Gerais`
 
 >  `I/O Extended Salvador [2015]: Palestra sobre Desenvolvimento Android e suas funcionalidades de interação com o usuário. Com um pouco de código para mostrar as maravilhas de se programar para a plataforma Android do Google. O Evento aconteceu na Livraria Saraiva do Salvador Shopping em Salvador - Bahia`
 
