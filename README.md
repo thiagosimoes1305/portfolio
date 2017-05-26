@@ -57,5 +57,5 @@ Projetos
 
 SENAI Cimatec | Agenda Cultural Bahia    |
 ------------- | -------- |
-<center><img src="http://tedk.com.br/wp-content/uploads/2016/11/senai-cimatec-2016-384x269.jpg" /></center> | <center><img src="http://tedk.com.br/wp-content/uploads/2016/07/aaaa-384x269.jpg" /></center>     |
+<img style="display: block; margin: 0 auto;" src="http://tedk.com.br/wp-content/uploads/2016/11/senai-cimatec-2016-384x269.jpg" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/aaaa-384x269.jpg" style="display: block; margin: 0 auto;" />     |
 SENAI CIMATEC, **inaugurado em março de 2002**, é um dos mais avançados centros de educação, tecnologia e inovação do país, localizado em Salvador, Bahia. Desenvolvido usando WordPress e JavaScript. **Designer: Alex Leão**. **Gerente de Projetos: Elano Passos**.  | A **Agenda Cultural da Bahia** agora está disponível para o seu celular (Android e iOS). Ficou fácil acompanhar os eventos culturais que acontecem por todo o estado da Bahia. **Desenvolvido usando Cordova e JavaScript** e usando notificações. **Designer Lívia Argolo**. |
