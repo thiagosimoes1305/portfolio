@@ -56,19 +56,19 @@ Projetos
 #### <i class="icon-folder-open"></i> Veja alguns dos meus principais trabalhos.
 
 SENAI Cimatec | Agenda Cultural Bahia    |
-------------- | -------- |
-<span align="center"><img src="http://tedk.com.br/wp-content/uploads/2016/11/senai-cimatec-2016-384x269.jpg" /></span> | <span align="center"><img src="http://tedk.com.br/wp-content/uploads/2016/07/aaaa-384x269.jpg" /></span> |
+:--------: | :--------: |
+<img src="http://tedk.com.br/wp-content/uploads/2016/11/senai-cimatec-2016-384x269.jpg" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/aaaa-384x269.jpg" /> |
 SENAI CIMATEC, **inaugurado em março de 2002**, é um dos mais avançados centros de educação, tecnologia e inovação do país, localizado em Salvador, Bahia. Desenvolvido usando WordPress e JavaScript. **Designer: Alex Leão**. **Gerente de Projetos: Elano Passos**.  | A **Agenda Cultural da Bahia** agora está disponível para o seu celular (Android e iOS). Ficou fácil acompanhar os eventos culturais que acontecem por todo o estado da Bahia. **Desenvolvido usando Cordova e JavaScript** e usando notificações. **Designer Lívia Argolo**. |
 &nbsp; | &nbsp;
 
 Jogo da Memôria | Aplicativo Le Biscuit    |
-------------- | -------- |
+:--------: | :--------: |
 <img style="display: block; margin: 0 auto;" src="http://tedk.com.br/wp-content/uploads/2016/07/outubro-rosa-2014-01-384x269.jpg" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/app-le-biscuit-organizador-do-lar-2014-inicial-384x269.jpg" style="display: block; margin: 0 auto;" /> |
 Jogo desenvolvido para campanha contra o **Câncer de Mama** no mês de Outubro pela [TAO Interativa](http://www.taointerativa.com.br/). Feito em **HTML5 (Canvas)** usando **JavaScript** e a suite **CreateJS**; usando contagem de tempo e elementos de cartas para a dinâmica do game.  | App desenvolvida em PhoneGap utilizando **HTML/CSS/JavaScript** e banco de dados **SQLite**. Desenvolvido com técnicas de Responsividade para as versões **iOS (iPhone e iPad)** e **Android (Smartphones e Tablets)**. **Designer: Manu Mascarenhas**. |
 &nbsp; | &nbsp;
 
 Ivete Sangalo | AgênciaOFF    |
-------------- | -------- |
+:--------: | :--------: |
 <img src="http://tedk.com.br/wp-content/uploads/2016/07/ivete-2012-inicial-384x269.jpg" /> | <img src="http://tedk.com.br/wp-content/uploads/2016/07/preload-pagina-agencia-off-384x269.jpg" /> |
 Site da Cantora criado pelo **Designer Rafa Almeida**. Site oficial da cantora usando **xHTML/CSS/Javascript**, desenvolvido em **PHP com Wordpress**. Requisições em **AJAX** mantém a boa performance do site e efeitos de parallax para deixar o site **mais dinâmico**.  | Site da Agência criado pelo **Designer Leonardo Matos**. Projeto meu e da **Carolina Batista (Gerente de Projetos)**. O foco era mostrar dinamismo e interações dos elementos com o site. Animações em **JavaScript** e um bom Preload são as principais características. |
 
